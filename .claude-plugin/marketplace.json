@@ -1,0 +1,11 @@
+{
+  "name": "davinci-skills",
+  "owner": { "name": "augustinbegue" },
+  "plugins": [
+    {
+      "name": "davinci-skills",
+      "source": "./",
+      "description": "Derush car-shoot rushes and cut beat-synced reels in DaVinci Resolve"
+    }
+  ]
+}

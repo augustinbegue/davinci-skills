@@ -1,0 +1,7 @@
+{
+  "name": "davinci-skills",
+  "description": "Derush car-shoot rushes and cut beat-synced reels in DaVinci Resolve",
+  "version": "1.0.0",
+  "author": { "name": "augustinbegue" },
+  "repository": "https://github.com/augustinbegue/davinci-skills"
+}
